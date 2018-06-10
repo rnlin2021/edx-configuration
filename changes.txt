@@ -1,3 +1,0 @@
-EDXAPP_LANGUAGE_CODE : 'zh-tw'
-
-EDXAPP_TIME_ZONE: 'Asia/Taipei'
